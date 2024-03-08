@@ -1,0 +1,35 @@
+HTML
+
+<div class="one">
+<img class="iron-man" src=""/>
+</div>
+
+<div class="two">
+<img class="Batman-man" src=""/>
+</div>
+------------------------------------------------------------------------------------
+CSS
+
+div{
+display:line-block      -------> This Separate the images into Two separate block
+width:40px;
+}
+
+______________________________________________________________________
+.iron-man{                   
+border:10px solid red;    ----->this gives border image1
+}
+.batman{
+border:10px solid green;    ---->this gives border image1
+}
+__________________________________________________________________
+
+.one{
+margin-right:60px;    --->this gives distance between two images    
+}
+.two{
+
+}
+
+Note:- .one is consider as one block of image1
+	.two is consider as one block of image1
