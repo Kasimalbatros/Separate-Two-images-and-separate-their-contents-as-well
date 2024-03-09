@@ -30,6 +30,9 @@ margin-right:60px;    --->this gives distance between two images
 .two{
 
 }
+footer{
+clear:both;     /*this makes the footer content below the two imges */
+}
 
 Note:- .one is consider as one block of image1
 	.two is consider as one block of image1
