@@ -1,0 +1,5 @@
+div{
+display:inline-block
+width:25%;      ---> width property helps to write the content inside block taking 25% of horizontal screen.(it means if two images and
+ their content in same line then each images content should take 25% of screen of block) 
+}         
